@@ -2,7 +2,8 @@
 
 belajar next js bundling tailwind untuk membuat portofolio yg simple
 
-![alt text](https://github.com/syaiful-scooter/tugasTokoJs/blob/84d471beded3b2f787558c71d41372058bf1820f/toko-sepatu-js.jpg)
+![alt text](https://github.com/syaiful-scooter/portofolio-nextailwind/blob/master/public/portfolio%20nextailwind.png).
+
 
 ##
 
